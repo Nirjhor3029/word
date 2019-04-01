@@ -1,0 +1,12 @@
+.table_img{
+    height: 50px;
+    width: 80px;
+}
+
+.bn_meaning{
+    background-color: #444444;
+    color: #444444;
+}
+.bn_meaning:hover{
+    color: #ffffff;
+}
